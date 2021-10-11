@@ -95,6 +95,7 @@ estados = {'MG': {'capital':'Belo Horizonte', 'pop': 21292666},
            'PB': {'capital':u'João Pessoa', 'pop': 4039277},
            'RN': {'capital':'Natal', 'pop': 3534165},
            'MT': {'capital':u'Cuiabá', 'pop': 3526220},
+           'MS': {'capital':u'Campo Grande', 'pop': 888888},
            'AL': {'capital':u'Maceió', 'pop': 3351543},
            }
 
